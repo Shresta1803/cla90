@@ -1,0 +1,52 @@
+body
+{
+	background: hsl(203, 71%, 56%);
+    text-align: center;
+	vertical-align: middle;
+    font-style: #44cfa7;
+}
+
+
+	.login_div1 , .login_div2
+	{
+		background: rgb(255, 255, 255);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{			
+	display: inline-block;
+	margin-left: 20px;
+}
+#number
+{
+	width: 60%;
+}
+#number_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #1261b6;
+padding: 10px;
+float: none;
+text-align: left;
+}
+/* h1 {
+	text-size-adjust: 100;
+}
+h2
+{
+	text-align: left;
+}
+.number1
+{
+	font-size: larger;
+} */
+
